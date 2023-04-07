@@ -1,21 +1,21 @@
 const siteMetadata = {
-  title: '狂奔滴小马 | 前端工程师成长部落阁',
-  author: '狂奔滴小马',
-  headerTitle: '小马部落阁',
-  description: '分享 JavaScript 以及热门框架，记录前端工程师学习成长历程。',
+  title: 'Jamie | 西街小学男孩',
+  author: 'Jamie',
+  headerTitle: 'Jamie‘s Blog',
+  description: '分享学习成长历程。',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://maqib.cn',
-  siteRepo: 'https://github.com/maqi1520/nextjs-tailwind-blog',
+  siteUrl: 'https://taozixu.com',
+  siteRepo: 'https://github.com/JamieTao2016/nextjs-tailwind-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'maqi1520@163.com',
-  github: 'https://github.com/maqi1520',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  email: 'zixutao@icloud.com',
+  github: 'https://github.com/JamieTao2016',
+  juejin: 'https://juejin.cn/',
+  zhihu: 'https://www.zhihu.com/',
   locale: 'zh-CN',
-  welcome: '自在，轻盈，我本不想停留',
+  welcome: '虽日暮途远，仍梦想诗和远方',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
